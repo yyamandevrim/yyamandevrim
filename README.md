@@ -2,7 +2,7 @@
 ### It's @kriptokscuk
 
 
-## 🌱 I’m currently learning Lua and C
+## 🌱 I’m currently learning Lua and C#
 
 
 # ⚡ Fun fact: The first oranges weren’t orange
