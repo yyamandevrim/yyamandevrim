@@ -2,9 +2,9 @@
 ### It's @kriptokscuk
 
 
-## 🌱 I’m currently learning Lua and C#
+## 🌱 I’m currently learning Lua
 
 
-# ⚡ Fun fact: More human twins are being born now than ever before.
+# ⚡ Fun fact: The first oranges weren’t orange
 
 Contact: yamandvrm@gmail.com
