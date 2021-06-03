@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### It's @kriptokscuk
-### I’m a 13 years old humanoid.
+### I’m a 2008 model humanoid.
 
 
 
