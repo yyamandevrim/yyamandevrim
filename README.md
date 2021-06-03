@@ -2,7 +2,7 @@
 ### It's @kriptokscuk
 
 
-## 🌱 I’m currently learning Lua
+## 🌱 I’m a 13 years old humanoid. Also i'm currently learning Lua
 
 
 # ⚡ Fun fact: The first oranges weren’t orange
