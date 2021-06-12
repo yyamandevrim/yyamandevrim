@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### It's @kriptokscuk
-### I’m a 2008 model humanoid.
+### I’m a 2005 model humanoid.
 
 
 
