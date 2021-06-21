@@ -9,6 +9,6 @@
 
 # ⚡ Fun fact: The first oranges weren’t orange
 
-Contact: Commit ? (or mail me at yavuzgirginell@gmail.com)
+Contact: Commit ? (or mail me at yavuzerginell@gmail.com)
 
 Note : All my repo's are hidden
