@@ -4,11 +4,11 @@
 
 
 
-## 🌱 I'm currently learning Lua.
+## 🌱 I'm currently learning nuthin
 
 
 # ⚡ Fun fact: The first oranges weren’t orange
 
-Contact: Commit ? (or mail me at yavuzerginell@gmail.com)
+Contact: Discord (Proxy#0099)
 
-Note : All my repo's are hidden
+Note : Most of my repo's are hidden
