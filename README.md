@@ -1,14 +1,9 @@
 ### Hi there 👋 
-### It's @kriptokscuk
+### It's @iyamandvrm
 ### I’m a 2007 model humanoid.
 
 
 
-## 🌱 I'm currently learning nuthin
-
+## 🌱 I'm currently learning Assembly
 
 # ⚡ Fun fact: The first oranges weren’t orange
-
-Contact: Discord (Proxy#0099)
-
-Note : Most of my repo's are hidden
