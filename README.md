@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### It's @iyamandvrm
-### I’m a 2007 model humanoid.
+### a 21th century humanoid.
 
 
 
