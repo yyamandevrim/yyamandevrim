@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### It's @iyamandvrm
-### a 21th century humanoid.
+### a computer-dependant wizard
 
 
 
@@ -8,4 +8,4 @@
 
 # ⚡ Fun fact: The first oranges weren’t orange
 
-a computer-dependant wizard
+
