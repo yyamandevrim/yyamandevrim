@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### It's @iyamandvrm
-### a computer-dependant wizard
+### a (bit) computer-dependant wizard
 
 
 
