@@ -15,6 +15,7 @@
 -->
 
 If you like my work consider buy some services at my <strong> <a href="https://bionluk.com/yamandevrim">Bionluk page.</a></strong>
+<br> 
 <a href="https://github.com/ZeroDiscord/">
-        <img src="https://komarev.com/ghpvc/?username=nightlunar&color=red" />
+        <img src="https://komarev.com/ghpvc/?username=iyamandvrm&color=red" />
   </a> 
