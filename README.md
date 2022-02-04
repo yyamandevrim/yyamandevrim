@@ -1,11 +1,10 @@
-### Hi there 👋 
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### It's @iyamandvrm
-### a (bit) computer-dependant wizard
+### I'm a humanoid who is proficient in php and node.js things
 
 
+## 🌱 I'm currently learning about AWS services.
 
-## 🌱 I'm currently learning (maybe tryin') Assembly
-
-# ⚡ Fun fact: The first oranges weren’t orange
+# ⚡ Fun fact: Our blood is as salty as the ocean
 
 
