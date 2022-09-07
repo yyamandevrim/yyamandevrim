@@ -5,7 +5,7 @@
 -->
 
 ```css
-[slorixsh@archlinux ~]$ neofetch
+[yamandevrim@archlinux ~]$ neofetch
 
                     -@                    yamandevrim@archlinux
                    .##@                   -----------------
