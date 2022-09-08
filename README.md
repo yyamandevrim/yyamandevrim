@@ -2,11 +2,11 @@
 <h3 align="center">A self taught fullstack developer from Turkey</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **Elixr for API things**
+- 🌱 I’m currently learning <strong>Elixr</strong> for API things**
 
 </p>
 <p align="center">
-- 💬 Ask me about **anything about my profession**
+- 💬 Ask me about <strong>anything</strong> about my profession
 
 </p>
 <p align="center">
