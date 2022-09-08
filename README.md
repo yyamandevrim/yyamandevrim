@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yaman</h1>
 <h3 align="center">A self taught fullstack developer from Turkey</h3>
 
+<p align="center">
 - 🌱 I’m currently learning **Elixr for API things**
 
 - 💬 Ask me about **anything about my profession**
 
-- 📫 How to reach me **[yaman.devrim+contact@gmail.com](mailto://yaman.devrim+contact@gmail.com)**
+- 📫 How to reach me **[yaman.devrim+contact@gmail.com](mailto://yaman.devrim+contact@gmail.com)**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
