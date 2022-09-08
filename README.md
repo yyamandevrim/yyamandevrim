@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-- 📫 How to reach me **[yaman.devrim+contact@gmail.com](mailto://yaman.devrim+contact@gmail.com)**</p>
+- 📫 Reach me via my <a href="mailto://yaman.devrim+contact@gmail.com">*Mail*</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
