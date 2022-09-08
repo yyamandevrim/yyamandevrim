@@ -18,10 +18,10 @@
              /##############@             
             @######@**%######@            -----------------
            @######`     %#####o           Javascript: 95/100
-          @######@       ######%          HTML: 9/1O
-        -@#######h       ######@.`        CSS: 8/10
+          @######@       ######%          HTML: 8/1O
+        -@#######h       ######@.`        CSS: 9/10
        /#####h**``       `**%@####@       PHP 9/10
       @H@*`                    `*%#@      
-     *`                            `*     Infos: 13yo FullStack Web Developer & Photographer
+     *`                            `*     Infos: 14yo FullStack Web Developer & Photographer
 
 ```
