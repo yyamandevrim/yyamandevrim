@@ -4,8 +4,12 @@
 <p align="center">
 - 🌱 I’m currently learning **Elixr for API things**
 
+</p>
+<p align="center">
 - 💬 Ask me about **anything about my profession**
 
+</p>
+<p align="center">
 - 📫 How to reach me **[yaman.devrim+contact@gmail.com](mailto://yaman.devrim+contact@gmail.com)**</p>
 
 <h3 align="center">Connect with me:</h3>
