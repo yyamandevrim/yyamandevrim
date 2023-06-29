@@ -12,6 +12,10 @@
 <p align="center">
 - 📫 Reach me via my <a href="mailto://yaman.devrim+contact@gmail.com"><strong>Mail</strong></p>
 
+<p align="center"> 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ojvi3kakv3ve8fihzjndkizul&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yaman-devrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman-devrim" height="30" width="40" /></a>
