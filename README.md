@@ -25,10 +25,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,figma,react,nextjs,bootstrap,html,css,php,codepen,vercel" />
-  </a>
+  </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,arduino,bash,cmake,vim" />
-  </a>
+  </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd" />
   </a>
