@@ -22,7 +22,7 @@
 <a href="https://instagram.com/yamandvrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamandvrm" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">Skills:</h3>h3> 
+<h3 align="center">Skills:</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,figma,react,nextjs,bootstrap,html,css,php,codepen,vercel" />
