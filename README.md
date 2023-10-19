@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/yaman-devrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman-devrim" height="30" width="40" /></a>
 <a href="https://instagram.com/yamandvrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamandvrm" height="30" width="40" /></a>
 </p>
-<br><br>
-<p align="center">
+<br>
+<h3 align="center"> Skills:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,figma,react,nextjs,bootstrap,html,css,php,codepen,vercel" />
   </a><br>
@@ -32,7 +32,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd" />
   </a>
-</p>
+</h3>
 
 <!-- 
 
