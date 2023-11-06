@@ -6,10 +6,6 @@
 
 </p>
 <p align="center">
-- 💬 Ask me about <strong>anything</strong> about my profession
-
-</p>
-<p align="center">
 - 📫 Reach me via my <a href="mailto://yaman.devrim+contact@gmail.com"><strong>Mail</strong></p>
 
 <p align="center"> 
