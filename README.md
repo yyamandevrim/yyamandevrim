@@ -2,7 +2,7 @@
 <h3 align="center">A self taught fullstack developer from Turkey</h3>
 
 <p align="center">
-- 🌱 I’m currently learning <strong>Elixr</strong> for API things
+- 🌱 I’m currently working on <strong>Competitve Programming</strong>
 
 </p>
 <p align="center">
