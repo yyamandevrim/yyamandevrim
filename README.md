@@ -25,10 +25,10 @@
 <h3 align="center">Skills:</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,figma,react,nextjs,bootstrap,html,css,php,codepen,vercel" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,figma,react,nextjs,bootstrap,html,css,php,codepen,vercel,heroku" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,arduino,bash,cmake,vim" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,arduino,bash,cmake,vim,github,linux" />
   </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd" />
