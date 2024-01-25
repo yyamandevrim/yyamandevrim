@@ -16,6 +16,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/yaman-devrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman-devrim" height="30" width="40" /></a>
 <a href="https://instagram.com/yamandvrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamandvrm" height="30" width="40" /></a>
+
 </p>
 <br>
 <h3 align="center">Skills:</h3> 
