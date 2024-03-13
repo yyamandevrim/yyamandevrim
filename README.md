@@ -7,11 +7,11 @@
 </p>
 <p align="center">
 - 📫 Reach me via my <a href="mailto://yaman@devrim.biz.tr"><strong>Mail</strong>,<a href="https://instagram.com/yamandvrm"><strong>Instagram</strong> or <a href="https://linkedin.com/in/yaman-devrim" target="blank">LinkedIn</a></p>
-
+<!--
 <p align="center"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ojvi3kakv3ve8fihzjndkizul&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
 </p>
-
+-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/yamandevrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yamandevrim" height="30" width="40" /></a>
