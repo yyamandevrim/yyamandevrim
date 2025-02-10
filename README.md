@@ -6,7 +6,8 @@
 
 </p>
 <p align="center">
-- 📫 Reach me via my <a href="mailto://yaman@devrim.biz.tr"><strong>Mail</strong>,<a href="https://instagram.com/yamandvrm"><strong>Instagram</strong> or <a href="https://linkedin.com/in/yaman-devrim" target="blank">LinkedIn</a></p>
+- 📫 Reach me at <a href="mailto://yaman@devrim.biz.tr"><strong>yaman@devrim.biz.tr</strong>
+</p>
 <!--
 <p align="center"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ojvi3kakv3ve8fihzjndkizul&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
