@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaman</h1>
-<h3 align="center">A <s>self taught fullstack developer</s> graphic desgner from Turkey</h3>
+<h3 align="center">An Art Director, also interested in web development from Turkey.</h3>
 
 <!--<p align="center">
 - 🌱 I’m currently working on <strong></strong> and <strong>Cyber Security</strong>-->
