@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yaman</h1>
-<h3 align="center">Art Director based in Turkey.</h3>
+<h3 align="center">Creative Director based in Turkey.</h3>
 
-<!--<p align="center">
-- 🌱 I’m currently working on <strong></strong> and <strong>Cyber Security</strong>-->
+<p align="center">
+- 🤖 I’m currently working at <a href="https://trbl.org.tr"><strong>TRBL (Türkiye Robots Battle League)</strong>
 
 </p>
 <p align="center">
